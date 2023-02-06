@@ -1,1 +1,1 @@
-# Basic_Computer_Vision
+# Basic_Image_Processing
